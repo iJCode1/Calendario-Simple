@@ -1,0 +1,11 @@
+h2{
+    font-size: 32px;
+}
+
+.calendar{
+    width: 600px;
+}
+
+.calendar ol li{
+    font-size: 24px;
+}
